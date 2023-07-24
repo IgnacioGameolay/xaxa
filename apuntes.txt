@@ -1,0 +1,18 @@
+Tipos de Analisis de Datos
+Se dividen en 4 partes:
+
+Analítica Descriptiva: 
+Que sucedió? Provee de ideas sobre eventos del pasado
+
+Analítica Diagnostica: 
+Porque sucedió? Profundiza para encontrar las causas del evento
+
+Analítica Predictiva: Que podría pasar si? Utiliza los datos del pasado para predecir un futuro evento
+
+Analítica Prescriptiva: 
+Que debería hacerse? Analiza decisiones y eventos del pasado para estimar la probabilidad de diferentes resultados.
+Todas las analíticas se van construyendo una sobre la otra por lo que lleva tiempo, es decir, 
+no puedes pasar de la Descriptiva a la Predictiva sin antes pasar por la Diagnostica
+
+A medida que vas pasando de una analitica a otra tambien incrementa la complejidad 
+ya que necesitas entender los datos a un nivel mas preciso conforme vayas avanza
